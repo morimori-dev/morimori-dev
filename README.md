@@ -2,7 +2,7 @@
 
 **Security Researcher** | Vulnerability Discovery & Responsible Disclosure
 
-Independent security researcher based in Japan with 30+ years of IT engineering experience.  
+Independent security researcher based in Japan with 10 years of IT engineering experience.  
 Focused on **vulnerability research**, **penetration testing**, and **responsible disclosure**.
 
 ---
@@ -64,7 +64,7 @@ All writeups published in **English & Japanese (EN/JA)** at [morimori-dev.github
 
 **Vulnerability Research:** Web application testing, Active Directory attacks, ADCS exploitation, Kerberos abuse  
 **Tools:** Burp Suite Pro, BloodHound CE, Nmap, feroxbuster, Impacket, Certipy, Ligolo-ng  
-**Infrastructure:** Linux (30+ years), AWS/Azure/GCP, Windows Server, Network Engineering  
+**Infrastructure:** Linux (10 years), AWS/Azure/GCP, Windows Server, Network Engineering  
 **Languages:** Japanese (native), English (professional)
 
 ---
