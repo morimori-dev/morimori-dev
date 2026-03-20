@@ -1,4 +1,4 @@
-# Hi, I'm Nozomu Sasaki (n0z0) 👋
+# Hi, I'm Nozomu Sasaki (Paul) 👋
 
 **Security Researcher** | Vulnerability Discovery & Responsible Disclosure
 
