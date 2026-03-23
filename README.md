@@ -73,7 +73,6 @@ All writeups published in **English & Japanese (EN/JA)** at [morimori-dev.github
 
 - **Blog:** [morimori-dev.github.io](https://morimori-dev.github.io)
 - **LinkedIn:** [in/nozomu-sasaki](https://www.linkedin.com/in/nozomu-sasaki/)
-- **X:** [@class_nzm](https://x.com/class_nzm)
 - **Credly:** [class_nzm](https://www.credly.com/users/class_nzm)
 
 ---
