@@ -11,9 +11,9 @@ Focused on **vulnerability research**, **penetration testing**, and **responsibl
 
 | CVE ID | Product | Severity | Advisory | Date |
 |--------|---------|----------|----------|------|
-| _Coming soon_ | — | — | — | 2026 |
+| CVE-2026-33628 | [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | Medium (CVSS 5.4) | [GHSA-98wm-cxpw-847p](https://github.com/invoiceninja/invoiceninja/security/advisories/GHSA-98wm-cxpw-847p) | 2026-03-24 |
 
-<!-- 
+<!--
 Template for adding new CVEs:
 | CVE-2026-XXXXX | [Product Name](vendor-url) | Critical / High / Medium | [Advisory](link) | 2026-XX-XX |
 -->
