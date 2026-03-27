@@ -26,12 +26,12 @@ Template for adding new CVEs:
 
 | Platform | Machines Completed |
 |----------|--------------------|
-| OffSec Proving Grounds | 104 |
+| OffSec Proving Grounds | 127 |
 | Hack The Box | 44 |
-| TryHackMe | 80 |
-| **Total** | **228** |
+| TryHackMe | 84 |
+| **Total** | **255** |
 
-**Target OS breakdown:** Linux 160 / Windows 68
+**Target OS breakdown:** Linux 179 / Windows 76
 
 ---
 
