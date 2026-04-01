@@ -48,7 +48,7 @@ All writeups published in **English & Japanese (EN/JA)** at [morimori-dev.github
 | Registered Information Security Specialist (RISS) | IPA, Japan |
 | AWS Certified Security – Specialty | AWS |
 | AWS Certified Solutions Architect – Professional | AWS |
-| OSCP (In Progress) | OffSec |
+| OSCP | OffSec |
 
 ---
 
