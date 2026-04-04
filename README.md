@@ -7,21 +7,6 @@ Focused on **vulnerability research**, **penetration testing**, and **responsibl
 
 ---
 
-## 🔒 CVE Advisories
-
-| CVE ID | Product | Severity | Advisory | Date |
-|--------|---------|----------|----------|------|
-| CVE-2026-33628 | [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | Medium (CVSS 5.4) | [GHSA-98wm-cxpw-847p](https://github.com/invoiceninja/invoiceninja/security/advisories/GHSA-98wm-cxpw-847p) | 2026-03-24 |
-
-<!--
-Template for adding new CVEs:
-| CVE-2026-XXXXX | [Product Name](vendor-url) | Critical / High / Medium | [Advisory](link) | 2026-XX-XX |
--->
-
-> I practice **responsible disclosure** — all vulnerabilities are reported to vendors with adequate remediation time before public disclosure.
-
----
-
 ## 📊 Offensive Security Stats
 
 | Platform | Machines Completed |
